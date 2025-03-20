@@ -1,4 +1,4 @@
-# Project Description: Customer Segmentation Using Machine Learning
+#  Customer Segmentation Using Machine Learning
 As a Data Scientist, this project focuses on implementing customer segmentation using unsupervised learning techniques to classify customers into distinct groups based on their purchasing behavior, demographics, and engagement patterns. By analyzing customer data, businesses can personalize marketing strategies, enhance customer experience, and optimize resource allocation.
 
 ## Key Objectives:
